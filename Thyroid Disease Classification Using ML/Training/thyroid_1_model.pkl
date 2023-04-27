@@ -1,0 +1,2 @@
+import pickle
+pickle.dump(sv1,open('thyroid_1_mode1.pkl','wb'))
